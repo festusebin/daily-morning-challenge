@@ -1,0 +1,101 @@
+﻿1). Explain the following agile methodologies: Scrum, Kanban, Extreme Programming.
+
+
+Scrum is an agile project management methodology used for software development projects with the goal of delivering new software capability every 2-4 weeks. Scrum is widely used by software development teams. 
+According to the 12th annual State of Agile report, 70% of software teams use Scrum or Scrum hybrid. Organizations that have adopted agile Scrum have experienced; higher productivity, better-quality products, reduced time to market, improved stakeholder satisfaction, better team dynamics, and happier employees.
+Scrum addresses complexity in work by making information transparent, so that people can inspect and adapt based on current conditions, rather than predicted conditions. This allows teams to address the common pitfalls of a waterfall development process: chaos resulting from constantly changing requirements; underestimation of time, resources and cost; compromises on software quality; and inaccurate progress reporting. Transparency of common terms and standards is required in Scrum development to ensure that what is being delivered is what was expected. Frequent inspection ensures progress and detects variances early on so that adjustments can be made quickly. The most common Scrum events for inspection and adaptation are: Sprint Planning, Daily Scrum or "Stand Up", Sprint Review, and Sprint Retrospective.
+Kanban is a method for managing the creation of products with an emphasis on continual delivery while not overburdening the development team.  Kanban is a process designed to help teams work together more effectively. 
+Benefits:
+* Shorter cycle times can deliver features faster.
+* Responsiveness to Change.
+* When priorities change very frequently, Kanban is ideal.
+* Balancing demand against throughput guarantees that most the customer-centric features are always being worked.
+* Requires fewer organization / room set-up changes to get started
+* Reducing waste and removing activities that don’t add value to the team.
+* Rapid feedback loops improve the chances of more motivated, empowered and higher-performing team members
+Extreme Programming(XP) is a software development methodology designed to improve the quality of software and its ability to properly adapt to the changing needs of the customer or client. 
+XP has simple rules that are based on 5 values.
+• Communication: Everyone on a team works jointly at every stage of the project.
+• Simplicity: Developers strive to write simple code bringing more value to a product, as it saves time and efforts.
+• Feedback: Team members deliver software frequently, get feedback about it, and improve a product according to the new requirements.
+• Respect: Every person assigned to a project contributes to a common goal.
+• Courage: Programmers objectively evaluate their own results without making excuses and are always ready to respond to changes.
+These values represent a specific mindset of motivated team players who do their best on the way to achieving a common goal. XP principles derive from these values and reflect them in more concrete ways.
+Most researchers denote 5 XP principles as:
+• Rapid feedback: Team members understand the given feedback and react to it right away.
+• Assumed simplicity: Developers need to focus on the job that is important at the moment and follow YAGNI (You Ain’t Gonna Need It) and DRY (Don’t Repeat Yourself) principles.
+• Incremental changes: Small changes made to a product step by step work better than big ones made at once.
+• Embracing change: If a client thinks a product needs to be changed, programmers should support this decision and plan how to implement new requirements.
+• Quality work: A team that works well, makes a valuable product and feels proud of it.
+Now it’s time to learn about practices that turn a software development group into dream teams.
+XP suggests using 12 practices while developing software. As XP is defined by values and principles, its practices also represent them and can be clustered into four groups.
+GROUPS
+	PRACTICES
+	Feedback
+	Test-driven Development
+The Planning Game
+On-Site Customer
+Pair Programming
+	Continual Process
+	Continual Integration
+Code Refactoring
+Small Releases
+	Code Understanding
+	Simple Design
+Collective code ownership
+System metaphor
+Code standards
+	Work condition
+	40-hour week
+	
+
+These are the factors to consider when using XP;
+Highly-adaptive development. XP was designed to help development teams adapt to fast-changing requirements.
+Risky projects. Teams apply XP practices more likely to avoid problems connected with working on a new system, especially when a product owner sets strict deadlines for a project.
+Small teams. XP practices are efficient for teams that don’t exceed 12 people.
+Automated testing. Another factor that can influence the choice of XP is the developers’ ability to create and run unit tests.
+Available customer participation. As XP requires customers, developers and managers work side-by-side, make sure your client can spend time in the office until a project ends.
+2). Who are the members of the agile team and what are their roles?
+Members of the agile team and their roles are described below;
+Product owner
+Product owners determine the direction for the team. They meet with the customer to determine their needs, translate those needs into functionality and features, and prioritize how the work is to be addressed. They understand the vision and translate it to the team to ensure everyone knows what the team will create.
+The product owner works with the customer to determine the Minimum Viable Product (MVP) to be delivered in the shortest amount of time. They also work with the team to create the user stories that help the team deliver what is needed.
+The product owner understands how the product fits within the larger strategy and can effectively communicate that to the team. The product owner also prioritizes the work to be done. He/She communicates this priority to the team and has to communicate any changes in priority, with a clear understanding of how those changes impact the team.  
+Product owner responsibilities:
+* Understands the vision and communicates this to the team and others.
+* Works with the customer to determine the MVP to be delivered in the shortest time. Serves as the voice of the customer.
+* Develops the roadmap for product delivery.
+* Defines requirements and features to be developed. These, in turn, can be broken down into user stories.
+* Understands Business Value for the work to be done, so that the team focus is placed on delivering value.
+* Prioritizes the work to be done, creating the team backlog.
+* Owns the team backlog and continually ensures that it is prioritized appropriately going forward. (The backlog is not a static list of work to be done. It is actively managed, and changes as needs change based on feedback and changing market and business conditions.)
+Scrum master
+The scrum master helps guide the team through the sprint and ceremonies. The scrum master facilitates the daily scrum meetings, the retrospectives, and other team ceremonies. He/She coaches the team and helps team members strive for continuous improvement. They also remove roadblocks that prevent the team from accomplishing items in the backlog.
+The scrum master role is often referred to as a servant leader. His/her goal is to help the team stay productive and successful.  
+Scrum master responsibilities:
+* Facilitates ceremonies and events – such as the daily Scrum Meeting – throughout the course of the sprints.
+* Protects the team backlog to ensure that once the sprint plan is in place, the team can move forward executing the sprint plan.
+* Removes impediments to ensure the team can successfully complete the user stories prioritized during sprint planning.
+* Coaches team members for continuous improvement.
+Team members
+The development team members create the product. The team is normally made up of developers, testers, and those who can create the necessary documentation. They help groom the backlog and ensure that user stories are clearly understandable. They also play an active role day to day in communication. They might work independently on user stories or collaborate when needed. They are expected to be self-motivated and reliable.
+Team member responsibilities:
+* Work on items in the backlog.
+* Attend and participates in ceremonies.
+* Report progress and demonstrate transparency in communication.
+Clearly understanding these Agile team roles will help your team ensure they are all addressed appropriately as your team becomes more familiar with Agile. Agile stresses constant improvement. Each team member works to get better and better through each Sprint. Revisit these Agile team roles as needed to ensure your team has all items covered and carries out the roles as needed. Agile takes discipline, transparency, and alignment, and can provide great value when done correctly.
+3). List 5 Project Management Tools
+* Basecamp.
+* Jira.
+* Asana.
+* Trello
+* Podio
+
+
+4). List the Phases of Software Development Life Cycle 
+* Requirement gathering and analysis
+* Design
+* Implementation or coding
+* Testing
+* Deployment
+* Maintenance
